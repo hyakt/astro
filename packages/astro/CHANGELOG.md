@@ -1,5 +1,15 @@
 # astro
 
+## 1.0.0-beta.48
+
+### Patch Changes
+
+- [#3612](https://github.com/withastro/astro/pull/3612) [`fca58cfd`](https://github.com/withastro/astro/commit/fca58cfd91b68501ec82350ab023170b208d8ce7) Thanks [@bholmesdev](https://github.com/bholmesdev)! - Fix: "vpath" import error when building for netlify edge
+
+- Updated dependencies [[`fca58cfd`](https://github.com/withastro/astro/commit/fca58cfd91b68501ec82350ab023170b208d8ce7), [`9c8a7c0b`](https://github.com/withastro/astro/commit/9c8a7c0b09db2fb6925929d4efe01d5ececbf08e), [`9c8a7c0b`](https://github.com/withastro/astro/commit/9c8a7c0b09db2fb6925929d4efe01d5ececbf08e)]:
+  - @astrojs/markdown-remark@0.11.3
+  - @astrojs/telemetry@0.1.3
+
 ## 1.0.0-beta.47
 
 ### Patch Changes
